@@ -40,6 +40,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'bootstrap-sass'
   gem 'simple_form'
+  gem 'devise'
 end
 
 group :development do
