@@ -41,6 +41,7 @@ group :development, :test do
   gem 'bootstrap-sass'
   gem 'simple_form'
   gem 'devise'
+  gem 'will_paginate'
 end
 
 group :development do
